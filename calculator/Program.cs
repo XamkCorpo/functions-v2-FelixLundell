@@ -99,10 +99,9 @@ namespace calculator
                 default:
                     Console.WriteLine("Tuntematon laskutoimitus");
                     return null;
-
-
-
+                    
             }
+
         }
         /// <summary>
         /// laskimet 
